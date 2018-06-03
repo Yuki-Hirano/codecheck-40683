@@ -10,4 +10,4 @@ def main(argv):
 
 
     for i, v in enumerate(argv):
-        print("Hello"+str(argv[i]))
+        print("Hello"+str(argv[i])+"!")
